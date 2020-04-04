@@ -1,5 +1,5 @@
 # kodelife_midi
-In the quest to integrate midi into my glsl shaders, I started using [KodeLife by Hexler](https://hexler.net/products/kodelife). The midi example [in their documentation](https://hexler.net/docs/kodelife-parameters-built-in) didn't work for me, but I was able to figure it out with some tinkering and with the help of some other generative artists. Hopefully this works for you! Read the code below, or download the .klproj file in this repo.
+In the quest to integrate midi into [my generative art](instagram.com/neel_generates), I started using [KodeLife by Hexler](https://hexler.net/products/kodelife). The midi example [in their documentation](https://hexler.net/docs/kodelife-parameters-built-in) didn't work for me, but I was able to figure it out with some tinkering and with the help of some other generative artists. Hopefully this works for you! Read the code below, or download the .klproj file in this repo.
 
 
 ```
